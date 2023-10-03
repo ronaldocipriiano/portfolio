@@ -9,7 +9,7 @@ function Contact() {
         <h2>Contato</h2>
         <div className="contact-links">
           <div className="contact-item">
-            <a href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/ronaldocipriiano" target="_blank" rel="noopener noreferrer">
               <FontAwesomeIcon icon={faGithub} />
               GitHub
             </a>
@@ -21,13 +21,13 @@ function Contact() {
             </a>
           </div>
           <div className="contact-item">
-            <a href="mailto:seu-email@example.com">
+            <a href="mailto:ronaldolopes14@gmail.com">
               <FontAwesomeIcon icon={faEnvelope} />
               Email (ronaldolopes14@gmail.com)
             </a>
           </div>
           <div className="contact-item">
-            <a href="tel:+1234567890">
+            <a href="tel:+5563981048459">
               <FontAwesomeIcon icon={faPhone} />
               Telefone (+5563981048459)
             </a>
